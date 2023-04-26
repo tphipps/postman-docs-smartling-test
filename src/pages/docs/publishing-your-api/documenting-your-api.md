@@ -1,5 +1,5 @@
 ---
-title: "Generating API documentation"
+title: "Generating API documentation in Postman"
 updated: 2023-01-05
 contextual_links:
   - type: section

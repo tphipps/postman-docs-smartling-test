@@ -1,7 +1,5 @@
 ---
-title: "Test script examples"
-order: 45
-page_id: "test_examples"
+title: "Postman test script examples"
 updated: 2021-11-15
 search_keyword: "pm.test, pm.expect, pm.response.json, pm.sendRequest, response.json"
 contextual_links:

@@ -1,8 +1,6 @@
 ---
-title: "Working with certificates"
-order: 29
+title: "Working with certificates in Postman"
 updated: 2022-03-24
-page_id: "certificates"
 contextual_links:
   - type: section
     name: "Prerequisites"

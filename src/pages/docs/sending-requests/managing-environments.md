@@ -1,8 +1,6 @@
 ---
-title: "Managing environments"
-order: 25
+title: "Managing environments in Postman"
 updated: 2022-11-16
-page_id: "managing-environments"
 search_keyword: "pm.globals.set, globals.set, pm.environment.set, environment.set, pm.variables.get, variables.get, pm.globals.get, globals.get, pm.environment.get, environment.get"
 contextual_links:
   - type: section

@@ -1,5 +1,5 @@
 ---
-title: "Dynamic variables"
+title: "Dynamic variables in Postman"
 page_id: "variables_list"
 updated: 2020-09-04
 order: 46

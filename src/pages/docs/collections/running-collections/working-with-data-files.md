@@ -1,6 +1,5 @@
 ---
-title: "Importing data files"
-order: 58
+title: "Importing data files in Postman"
 updated: 2022-07-18
 page_id: "working_with_data_files"
 contextual_links:

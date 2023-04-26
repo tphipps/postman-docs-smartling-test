@@ -1,5 +1,5 @@
 ---
-title: "Specifying examples"
+title: "Specifying examples in Postman"
 updated: 2023-02-13
 contextual_links:
   - type: section

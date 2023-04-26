@@ -1,5 +1,5 @@
 ---
-title: "Using custom domains"
+title: "Using custom domains in Postman"
 updated: 2023-01-12
 contextual_links:
   - type: section

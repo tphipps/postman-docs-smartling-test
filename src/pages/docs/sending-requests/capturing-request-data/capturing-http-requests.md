@@ -1,7 +1,5 @@
 ---
-title: "Capturing HTTP requests"
-order: 32
-page_id: "capturing_http_requests"
+title: "Capturing HTTP requests in Postman"
 updated: 2022-03-02
 contextual_links:
   - type: section

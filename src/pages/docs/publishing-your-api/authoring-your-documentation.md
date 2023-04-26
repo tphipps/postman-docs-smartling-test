@@ -1,7 +1,6 @@
 ---
-title: "Writing your docs"
+title: "Writing your docs in Postman"
 updated: 2023-01-10
-search_keyword: "images, upload image, uploading images"
 contextual_links:
   - type: section
     name: "Prerequisites"

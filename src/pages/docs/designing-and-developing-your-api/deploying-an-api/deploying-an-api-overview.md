@@ -1,7 +1,6 @@
 ---
 title: 'Deploying an API overview'
 updated: 2022-09-15
-search_keyword: "deploy, aws, apigee, api gateway, azure, api management"
 contextual_links:
   - type: section
     name: "Prerequisites"

@@ -23,7 +23,6 @@ contextual_links:
   - type: link
     name: "Creating workspaces"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
-search_keyword: "collection links, collection JSON links, manage public elements, public documentation, public workspaces"
 ---
 
 > **[Manage public elements is available on Postman Enterprise plans.](https://www.postman.com/pricing/)**

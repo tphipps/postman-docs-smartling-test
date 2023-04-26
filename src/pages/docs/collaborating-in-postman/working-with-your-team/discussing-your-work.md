@@ -1,8 +1,6 @@
 ---
-title: "Discussing your work"
-order: 73.3
+title: "Discussing your work in Postman"
 updated: 2021-04-15
-page_id: "discussing_your_work"
 contextual_links:
   - type: section
     name: "Additional resources"

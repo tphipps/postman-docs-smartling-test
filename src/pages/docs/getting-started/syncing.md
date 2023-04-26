@@ -1,8 +1,6 @@
 ---
-title: "Syncing your work"
-order: 5
+title: "Syncing your work in Postman"
 updated: 2022-2-18
-page_id: "syncing"
 contextual_links:
   - type: section
     name: "Prerequisites"

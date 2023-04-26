@@ -1,7 +1,6 @@
 ---
 title: "Troubleshooting monitors"
 updated: 2022-02-14
-search_keyword: "console.log"
 contextual_links:
   - type: section
     name: "Prerequisites"

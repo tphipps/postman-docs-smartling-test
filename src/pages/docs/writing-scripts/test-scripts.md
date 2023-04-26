@@ -1,7 +1,5 @@
 ---
-title: "Writing tests"
-order: 43
-page_id: "test_scripts"
+title: "Writing tests in Postman"
 updated: 2022-08-31
 search_keyword: "pm.response, pm.test, pm.expect"
 contextual_links:

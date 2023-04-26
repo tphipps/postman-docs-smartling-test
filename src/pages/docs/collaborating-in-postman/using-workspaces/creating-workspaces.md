@@ -1,8 +1,6 @@
 ---
-title: "Creating workspaces"
-order: 77
+title: "Creating workspaces in Postman"
 updated: 2021-09-30
-page_id: "creating_workspaces"
 contextual_links:
   - type: section
     name: "Prerequisites"
@@ -31,7 +29,6 @@ contextual_links:
   - type: link
     name: "Using and managing workspaces"
     url: "/docs/collaborating-in-postman/using-workspaces/managing-workspaces/"
-search_keyword: "workspace as container, user workflow, creating workspaces, personal workspace, team workspace, private workspace, new workspace"
 
 warning: false
 

@@ -1,5 +1,5 @@
 ---
-title: 'Testing an API'
+title: 'Testing an API in Postman'
 updated: 2022-10-05
 contextual_links:
   - type: section

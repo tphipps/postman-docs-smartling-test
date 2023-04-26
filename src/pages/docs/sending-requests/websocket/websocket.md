@@ -1,7 +1,6 @@
 ---
 title: "Using WebSocket requests"
 updated: 2022-08-02
-search_keyword: "WebSocket, websockets, WebSocket requests, Socket.IO"
 contextual_links:
   - type: section
     name: "Prerequisites"

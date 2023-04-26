@@ -1,7 +1,6 @@
 ---
 title: "Lightstep"
 updated: 2022-03-14
-search_keyword: "lightstep, servicenow"
 contextual_links:
   - type: section
     name: "Prerequisites"

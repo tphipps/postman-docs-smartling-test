@@ -1,9 +1,6 @@
 ---
-title: "Managing your team"
-order: 121
+title: "Managing your team in Postman"
 updated: 2022-12-19
-page_id: "managing_your_team"
-warning: false
 contextual_links:
   - type: section
     name: "Additional resources"

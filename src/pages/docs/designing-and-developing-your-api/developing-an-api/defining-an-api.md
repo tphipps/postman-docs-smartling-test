@@ -1,5 +1,5 @@
 ---
-title: 'Editing an API definition'
+title: 'Editing an API definition in Postman'
 updated: 2023-03-15
 search_keyword: "schema, spec, API schema, API spec, API specification, API definition"
 contextual_links:

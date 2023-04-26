@@ -1,7 +1,5 @@
 ---
-title: "Building requests"
-order: 21
-page_id: "requests"
+title: "Building requests in Postman"
 updated: 2021-11-09
 search_keyword: "Content-Type, multipart, form-data, x-www-form-urlencoded"
 contextual_links:

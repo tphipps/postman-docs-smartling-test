@@ -1,7 +1,5 @@
 ---
-title: "Sharing your work"
-order: 73.1
-page_id: "sharing"
+title: "Sharing your work in Postman"
 updated: 2023-02-22
 contextual_links:
   - type: section

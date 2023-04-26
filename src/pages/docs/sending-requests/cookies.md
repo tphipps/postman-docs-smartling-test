@@ -1,7 +1,5 @@
 ---
-title: "Using cookies"
-order: 28
-page_id: "cookies"
+title: "Using cookies in Postman"
 updated: 2022-03-02
 search_keyword: "pm.cookies.jar, cookies.jar"
 contextual_links:

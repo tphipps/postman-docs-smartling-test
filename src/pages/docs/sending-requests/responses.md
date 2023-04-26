@@ -1,8 +1,6 @@
 ---
-title: "Receiving responses"
-order: 23
+title: "Receiving responses in Postman"
 updated: 2022-01-27
-page_id: "responses"
 contextual_links:
   - type: section
     name: "Prerequisites"

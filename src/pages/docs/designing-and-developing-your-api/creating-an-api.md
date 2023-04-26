@@ -1,5 +1,5 @@
 ---
-title: 'Creating an API'
+title: 'Creating an API in Postman'
 updated: 2022-09-15
 contextual_links:
   - type: section

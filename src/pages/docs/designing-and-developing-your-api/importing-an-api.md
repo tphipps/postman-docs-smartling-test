@@ -1,7 +1,6 @@
 ---
-title: 'Importing an API'
+title: 'Importing an API in Postman'
 updated: 2022-09-15
-search_keyword: "import, aws, api gateway"
 contextual_links:
   - type: section
     name: "Prerequisites"

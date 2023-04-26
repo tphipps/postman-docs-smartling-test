@@ -1,7 +1,5 @@
 ---
-title: "Requesting access"
-order: 73
-page_id: "requesting-access-to-collections"
+title: "Requesting access in Postman"
 updated: 2022-02-24
 contextual_links:
   - type: section
@@ -24,7 +22,6 @@ contextual_links:
   - type: link
     name: "2 Ways to Access and Edit a Postman Element"
     url: "https://blog.postman.com/access-and-edit-postman-element/"
-warning: false
 
 ---
 

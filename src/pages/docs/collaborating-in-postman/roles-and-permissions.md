@@ -1,9 +1,6 @@
 ---
-title: "Defining roles"
-order: 72
+title: "Defining roles in Postman"
 updated: 2022-12-19
-page_id: "roles_and_permissions"
-warning: false
 contextual_links:
   - type: section
     name: "Prerequisites"

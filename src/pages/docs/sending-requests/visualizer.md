@@ -1,5 +1,5 @@
 ---
-title: "Visualizing responses"
+title: "Visualizing responses in Postman"
 updated: 2021-02-17
 search_keyword: "pm.visualizer.set, visualizer.set, pm.response.json, response.json, pm.getData, getData"
 contextual_links:

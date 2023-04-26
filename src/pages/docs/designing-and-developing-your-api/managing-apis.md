@@ -1,5 +1,5 @@
 ---
-title: 'Managing and sharing APIs'
+title: 'Managing and sharing APIs in Postman'
 updated: 2023-02-15
 contextual_links:
   - type: section

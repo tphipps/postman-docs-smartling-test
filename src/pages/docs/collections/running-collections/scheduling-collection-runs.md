@@ -1,5 +1,5 @@
 ---
-title: "Scheduling collection runs"
+title: "Scheduling collection runs in Postman"
 updated: 2022-11-09
 contextual_links:
   - type: section

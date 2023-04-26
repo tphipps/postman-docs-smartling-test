@@ -1,7 +1,5 @@
 ---
-title: "Using variables"
-order: 24
-page_id: "variables"
+title: "Using variables in Postman"
 updated: 2023-02-14
 contextual_links:
   - type: section

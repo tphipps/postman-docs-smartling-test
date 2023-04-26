@@ -1,7 +1,5 @@
 ---
-title: "Sending your first request"
-order: 4
-page_id: "sending_the_first_request"
+title: "Sending your first request in Postman"
 updated: 2021-12-13
 contextual_links:
   - type: section

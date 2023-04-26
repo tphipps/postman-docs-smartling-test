@@ -3,7 +3,6 @@ title: "Creating a workspace"
 order: 8
 page_id: "creating_your_first_workspace"
 warning: false
-search_keyword: "workspace, create workspace, creating workspaces"
 updated: 2022-01-04
 contextual_links:
   - type: section

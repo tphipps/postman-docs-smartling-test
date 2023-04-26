@@ -1,5 +1,5 @@
 ---
-title: "Authorizing requests"
+title: "Authorizing requests in Postman"
 updated: 2022-12-12
 search_keyword: "WWW-Authenticate, x-www-form-urlencoded"
 contextual_links:
